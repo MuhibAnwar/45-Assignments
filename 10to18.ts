@@ -30,7 +30,7 @@ console.log(friends[1]+"you are invited to dinner")
 console.log(friends[2]+"you are invited to dinner")
 
 //TASK 15
-let guestList = ["Tayyab", "Imran", "Taha"];
+let guestList2 = ["Tayyab", "Imran", "Taha"];
 
 //  invitation messages
 console.log("Dear " + guestList[0] + ", you are cordially invited to dinner this sunday. We would be honored to have your presence.");
@@ -52,7 +52,7 @@ console.log("Dear " + guestList[2] + ", you are cordially invited to dinner this
         
         
 //TASK 16
-let guestLists : string [] = ["tayyab", "imran", "taha"];
+let guestLists3 : string [] = ["tayyab", "imran", "taha"];
 
         console.log("Everyone I am very Happy to informig You I have  found a bigger dinner table. so Iam inviting More Friends");
 
